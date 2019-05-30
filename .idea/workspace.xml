@@ -2,135 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="936f067e-0f66-4b87-8eec-8b05af8427ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-04-18_2028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-04-18_2036.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019-04-21_1637.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desktop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git GUI.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ IDEA Community Edition 2019.1.2.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opera Browser.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Bug_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/Tema 2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/bug 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/buguri.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 2/~$buguri.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 3/Raportare de bugu-ri (AutoRecovered).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 3/Scenarii de testare.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 3/~$portare de bugu-ri.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 4.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 5.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 6/TEST CASES TEMA 6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEME Rezolvate/TEMA 6/Test cases Cosma ST..xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/54799917_631398667283054_2520942479000207360_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/Firefox Installer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/OperaSetup.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/SafariSetup.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/jing (1).exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/jing (2).exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/jing.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/AZET &amp; ZUNA - FRAGEN (prod. by THE CRATEZ &amp; THE ROYALS).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Andra - Supereroi (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Ariana Grande - 7 rings.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/C ARMA - YAPMA (Official HD Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Capital Bra - JE M'APPELLE (prod. by Goldfinger).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Carla’s Dreams - Luna _ Nocturn_ Act 4.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/INNA - Tu Manera _ Official Music Video.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Janelle Monáe – Make Me Feel [Official Music Video].mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Janelle Monáe_ Jidenna - Yoga.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Jumpa x Young Zerka - Lule Bore.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Kontra K - Warnung (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Mabel - Don't Call Me Up (Lyrics).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Mahmut Orhan ft. Irina Rimes - I Feel Your Pain (Schhh.) [Music Video] __ Lyrics.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Maluma - HP (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Minelli - Mariola _ Official Video.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Pedro Capó_ Farruko - Calma (Remix - Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Sofia Reyes - R.I.P. (feat. Rita Ora &amp; Anitta)[OFFICIAL MUSIC VIDEO].mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Speak x Ioana Ignat - Ca nebunii _ Lyrics Video.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/21.03.2019/Tayna ft. Don Phenom - Columbiana (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/#3 Spike - Manele.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Alina Eremia - Tatuaj _ Official Video.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Amna feat. Robert Toma - Aproape cel mai departe (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Bad Bunny feat. Drake - Mia ( Video Oficial ).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Black Coffee &amp; David Guetta - Drive (ft. Delilah Montagu).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Burak Balkan - SHARA! ( ft. Akif Sarıkaya &amp; Nurkan Pazar ).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Cabron feat. Feli - Cuibul de viespi (Official track).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/David Guetta_ Bebe Rexha &amp; J Balvin - Say My Name (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Delia - Acadele _ Official Video.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Drei Ros_ Breakfast N Vegas_ Los Rakas - Bombero (official video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Jon Baiat Bun x Alessandra - Rasare Luna [ Videoclip oficial ].mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/KAZKA - PLAKALA (Slav Dubovoi Remix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Kygo - Happy Now ft. Sandro Cavazza.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Little Mix - Woman Like Me (Official Video) ft. Nicki Minaj.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Mike WiLL Made-It_ Lil Wayne - Amen (Pre Fight Prayer) (From “Creed II_ The Al.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Nicki Minaj - Good Form ft. Lil Wayne.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Otilia - I don't know (ft. Deejay Fly)(MUSTAFA &amp; EMRE REMİX).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Pete Bellis &amp; Tommy - Treat Me Right (Nikko Culture Remix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Sub Focus &amp; Dimension - Desire.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Super Sako Ft. Hayko - Mi Gna (Consoul Trainin Remix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  01   12   2018/Tyga - Dip (Official Video) ft. Nicki Minaj.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/BONEZ MC &amp; RAF CAMORA - RISIKO  (prod. by X-Plosive &amp; The Cratez ).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Buddy - Black (Audio) ft. A$AP Ferg.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Cardi B - Money [Official Music Video].mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/DARDAN - FACETIME prod. Menju.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Dafina Zeqiri X Dj Geek - ALO.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Dj Goja - Not Over.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Dj Kantik Ft. Arijit Singh - Tum Hi Ho.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Kanita - S'jemi Ne (N.O.A.H Remix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/KitschKrieg feat. Trettmann_ Gringo_ Ufo361 &amp; Gzuz - Standard (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/LIUFO - HATE N' LOVE.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Leon Machère - Copacabana ☀️ (Official Video).mp3" afterPathEscaped="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Leon Machère - Copacabana 🌴☀️ (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Natti Natasha - Pa' Mala YO [Official Video].mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/RIN - Dior 2001 (prod. Alexis Troy).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Raluka - Whole Body _ Official Video.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/River Runs Red Movie - Wildlyfe 1Hunnud (ride wit the sac).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Samanta ft. Elinel - Vone (Official Video HD ).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Skerdi ft. Nora Istrefi - M'ke mungu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Ufo361 - _Nice Girl 2.0_ (prod. von AT Beatz) [Official HD Video].mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Vintage Culture_ Bruno Be &amp; Ownboss - Intro Rework (Ashibah Miracle Vox Edit).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Zhavia Ward - 100 Ways (Official Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/CD  10 01  2019/Ömer Bükülmezoğlu - Deep Love (Original Mix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/Setup.X86.en-US_O365HomePremRetail_03c886c5-deda-4057-b18f-4ea85a774900_TX_DB_.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Adler &amp; MCA - In culori (house version).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Animal X  N-am crezut.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/B.U.G. Mafia - Cine E Cu Noi (feat. Nico) (Prod. Tata Vlad) (Videoclip).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/B.U.G. Mafia - Limbaj De Cartier (feat. Cheloo) (Prod. Tata Vlad).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/B.U.G. Mafia - Schimbu' 3 (Prod. Tata Vlad).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/B.U.G. Mafia - Un 2 Si Trei De 0 (feat. ViLLy) (Prod. Tata Vlad) (Videoclip).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/B.U.G. Mafia - Viata Noastra (feat. Adriana Vlad) (Prod. Tata Vlad) (Videoclip).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Bairam - Mor dusmanii mei.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Body &amp; Soul - Ne-au topit caldurile (Videoclip Oficial).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Body &amp; Soul - Super femei.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/DMS feat. Anemona- Undeva... Candva....mpg.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Double D - Spune-mi Daca Vrei.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/K1 - Ma luai (original edit).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/La Familia feat. Don Baxter &amp; Cabron - Zi de zi.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/M&amp;G - Nu Sta Retras (cu Ana B.si Puya) album TOT NOI 2008.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Non Stop - Esti fata care-mi place.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Trupa Varza-Ne bat vecini-n teava.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/Valahia - Banii si fetele ( Oficial Video ).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzica veche romaneasca/muzica/muzica veche romaneasca/tu alin alin alin mpg.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Desktop/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stefan certificate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desktop/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desktop/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,23 +16,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="493">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -167,6 +46,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
@@ -183,14 +64,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Desktop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,23 +124,27 @@
       <option name="presentableId" value="Default" />
       <updated>1558628733703</updated>
     </task>
+    <task id="LOCAL-00001" summary="d">
+      <created>1558633392761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558633392761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32900432" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900432" />
@@ -267,26 +152,38 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
