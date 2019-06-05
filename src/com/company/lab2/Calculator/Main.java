@@ -43,10 +43,10 @@ public class Main {
 
 
     public static void printMode1(){
-        System.out.println("      J       a    v     v    a      ");
-        System.out.println("      J      a a    v   v    a a     ");
-        System.out.println("   J  J     aaaaa    V V    aaaaa    ");
-        System.out.println("    JJ     a     a    V    a     a   ");
+        System.out.println("      J      a    v     v    a      ");
+        System.out.println("      J     a a    v   v    a a     ");
+        System.out.println("   J  J    aaaaa    V V    aaaaa    ");
+        System.out.println("    JJ    a     a    V    a     a   ");
     }
 
 
@@ -54,8 +54,6 @@ public class Main {
         int result = (a + b + c) / 3;
         return result;
     }
-
-
 
 
 
@@ -69,6 +67,7 @@ public class Main {
         System.out.println("   +-----+     ");
 
     }
+
 
 
 
